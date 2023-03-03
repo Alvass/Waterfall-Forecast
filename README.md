@@ -1,5 +1,4 @@
-## Summary
-Tool to check if orders were placed at production lead time minimum.
+**Tool to check if orders were placed at production lead time minimum**
 
 ## Situation
 Customer experienced several production stop with the last 6 months and correction actions was urgently needed to support their business
